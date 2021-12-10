@@ -15,7 +15,7 @@
 <br>
     <br>
     
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F70000&size=30&lines=No+Longer+Availeble)]
+[Typing SVG](https://readme-typing-svg.herokuapp.com?font=Bomber+Escort&color=F70000&size=30&lines=No+Longer+Availeble)
 
 
   [![HM Ser](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)]
