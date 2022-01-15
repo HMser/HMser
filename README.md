@@ -29,8 +29,8 @@
 - ðŸ’¬ Ask me about anything. I don't know anything
 - ðŸ“« How to reach me: [Whatsapp](https://wa.me/916235199845)
 -->
-
+![github stats](https://github-readme-stats.vercel.app/api?username=HMser&show_icons=true&theme=radical)
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Viz-Zer/count.svg" />
+  <img src="https://profile-counter.glitch.me/HMser/count.svg" />
 </p>
