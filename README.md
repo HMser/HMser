@@ -29,3 +29,8 @@
 - ðŸ’¬ Ask me about anything. I don't know anything
 - ðŸ“« How to reach me: [Whatsapp](https://wa.me/916235199845)
 -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Viz-Zer/count.svg" />
+</p>
