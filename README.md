@@ -17,9 +17,8 @@
 <div align="left">
 
     
-- 😜 I’m Hashir, 18 years old
-- 😌 But call Me HM
-- 🔭 I’m currently working on[Liza Bot](https://github.com/HMSer/Liza)
+- 😜 I’m HM, 18 years old
+- 🔭 I’m currently working on [Liza Bot](https://github.com/HMSer/Liza)
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate on nobody
 - 💬 Ask me about anything. I don't know anything!
