@@ -17,9 +17,9 @@
 <div align="left">
 
     
-- 😜 I’m HM, 18 years old
+- 😜 I’m HM,
 - 🔭 I’m currently working on [Liza Bot](https://github.com/HMSer/Liza)
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning what i didn't know!
 - 👯 I’m looking to collaborate on nobody
 - 💬 Ask me about anything. I don't know anything!
 - 📫 How to reach me: [Whatsapp](https://wa.me/447441452481)
