@@ -29,3 +29,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/HMser/count.svg" />
 </p>
+
+[[https://github.com/kittinan/spotify-github-profile][https://spotify-github-profile.vercel.app/api/view.svg?uid=31ifti3sznfbpc4qxmtxitmsfm64&cover_image=true&theme=default&show_offline=true&background_color=121212&bar_color=53b14f&bar_color_cover=true)]]
